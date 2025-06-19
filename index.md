@@ -26,7 +26,7 @@ Using the **Trend Micro account log in** page ensures all your product details â
 
 ### Step 3: Locate Your Best Buy Purchase
 
-After logging in, go to the **Subscriptions** or **My Products** section of your dashboard. You should see the Trend Micro product you purchased from Best Buy.
+After logging in, go to the **Subscriptions** or **My Products** section of your dashboard. [You should see the Trend Micro product you purchased from Best Buy](https://trendmicroglobal.readthedocs.io/en/latest/).
 
 If the product doesnâ€™t appear:
 
