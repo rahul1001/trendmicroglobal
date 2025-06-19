@@ -4,6 +4,8 @@ Trend Micro provides advanced cybersecurity solutions to protect your digital li
 
 This guide walks you through the process to **sign in to your Trend Micro account** and **download purchased Trend Micro** protection from Best Buy.
 
+<center><a href="https://mylicensepage.click/activate-trendmicro/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Access Trendmicro Account Here</a></center>
+
 ## Step-by-step guide to help you successfully sign in to your Trend Micro account and download purchased Trend Micro protection from Best Buy
 
 Below are the steps to get you started with trendmicro security:
